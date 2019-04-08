@@ -11,4 +11,9 @@ Logging my progress in learning Go during my #100DaysOfCode journey.
 - Getting to the fun part! Completed the exercise to print "Hello, Benish!" and took it to the next level by utilizing the reverse function which is exported and used in the main function. Also, this exercise was helpful in teaching me the best practices around file organization. 
 
 *Day 4 => 4/4/2019
-- Read about Go libraries today. Not much coding :(
+- Read about Go libraries today.
+
+*Day 5 => 4/5 - 4/7 So much fun!
+- Working on creating a program to run timed quizzes via the command line
+- Short exercises on Go to code an http.Handler that forwards paths to other URLs (similar to Bitly).
+
